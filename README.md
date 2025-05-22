@@ -6,7 +6,7 @@ Meu nome é Wescley Galdino, tenho 18 anos e sou estudante do ensino médio inte
 
 Atualmente, estou me dedicando ao aprofundamento em linguagens como HTML, CSS, JavaScript e Python, além do framework Django. Busco constantemente transformar ideias em soluções criativas, funcionais e acessíveis.
 
-📚 Valorizo o aprendizado contínuo, o trabalho em equipe e o desenvolvimento de competências úteis e escaláveis.
+📚 Valorizo o aprendizado contínuo, o trabalho em equipe e o desenvolvimento de competências úteis e escaláveis. <br/>
 🚀 Meu objetivo profissional é me tornar um desenvolvedor full stack e desenvolver soluções eficazes por meio da web.
 
 ---
