@@ -1,5 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff2fae&height=120&section=header"/>
 <p align="left">
+    <a href="https://github.com/WescleyPlinio">
+        <img 
+            alt="Visualizações de perfil" 
+            title="Visualizações do perfil no GitHub" 
+            src="https://komarev.com/ghpvc/?username=WescleyPlinio&color=orange&style=for-the-badge"
+        />
+    </a>
     <a href="https://github.com/WescleyPlinio?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
