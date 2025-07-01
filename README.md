@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=ff2fae&width=850&height=40&lines=Hi+there+,+I'm+Ellainy%2C+Thanks+for+visiting+my+profile!)
+
 # 👨🏻‍💻 Wescley
 
 **`Estudante`**
@@ -104,3 +106,5 @@ Atualmente, estou me dedicando ao aprofundamento em linguagens como HTML, CSS, J
   />
 
 </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff2fae&height=120&section=footer"/>
