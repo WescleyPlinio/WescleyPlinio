@@ -11,14 +11,14 @@
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/WescleyPlinio?color=8c52ff&style=for-the-badge&labelColor=8c52ff&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/WescleyPlinio?color=555555&style=for-the-badge&labelColor=8c52ff&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/WescleyPlinio?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/WescleyPlinio?color=8c52ff&labelColor=8c52ff&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/WescleyPlinio?color=555555&labelColor=8c52ff&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
