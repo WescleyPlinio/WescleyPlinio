@@ -4,7 +4,7 @@
         <img 
             alt="Visualizações de perfil" 
             title="Visualizações do perfil no GitHub" 
-            src="https://komarev.com/ghpvc/?username=WescleyPlinio&color=8c52ff&style=for-the-badge&labelColor=8c52ff"
+            src="https://komarev.com/ghpvc/?username=WescleyPlinio?color=8c52ff&style=for-the-badge&labelColor=8c52ff"
         />
     </a>
     <a href="https://github.com/WescleyPlinio?tab=repositories&sort=stargazers">
