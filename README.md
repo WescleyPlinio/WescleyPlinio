@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff2fae&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8c52ff&height=120&section=header"/>
 <p align="left">
     <a href="https://github.com/WescleyPlinio">
        <img 
@@ -130,4 +130,4 @@ Atualmente, estou me dedicando ao aprofundamento em linguagens como HTML, CSS, J
 
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff2fae&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8c52ff&height=120&section=footer"/>
