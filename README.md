@@ -99,35 +99,11 @@ Atualmente, estou me dedicando ao aprofundamento em linguagens como HTML, CSS, J
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Django" 
+    title="Django"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
 />
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="157" 
-    src="https://github-readme-stats.vercel.app/api?username=WescleyPlinio&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-</p>
-
-<p>
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="157" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=WescleyPlinio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8c52ff&height=120&section=footer"/>
