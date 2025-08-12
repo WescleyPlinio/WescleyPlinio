@@ -7,13 +7,6 @@
             src="https://komarev.com/ghpvc/?username=WescleyPlinio&color=8c52ff&style=for-the-badge"
         />
     </a>
-    <a href="https://github.com/WescleyPlinio?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/WescleyPlinio?color=8c52ff&style=for-the-badge&labelColor=555555&logo=star&label=estrelas"
-        />
-    </a>
     <a href="https://github.com/WescleyPlinio?tab=followers">
         <img 
             alt="Seguidores" 
