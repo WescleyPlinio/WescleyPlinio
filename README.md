@@ -20,13 +20,11 @@
 
 **`Estudante`**
 
-Meu nome é Wescley Galdino, sou estudante do ensino médio integrado ao curso técnico em Informática para Internet no IFRN – Campus São Paulo do Potengi. Tenho grande interesse pela área de tecnologia, com foco em desenvolvimento web e análise de dados.
+Me chamo Wescley, atualmente sou estudante do curso técnico integrado ao ensino médio em Informática para Internet no IFRN – Campus São Paulo do Potengi. Tenho grande interesse pela área de tecnologia, com foco em desenvolvimento web full-stack, análise de dados e inteligência artificial.
 
-Atualmente, estou me dedicando ao aprofundamento em linguagens como HTML, CSS, JavaScript e Python, além do framework backend Django e linguagens de banco de dados relacional como MySql.
+Uso no dia a dia linguagens como HTML, CSS, JavaScript e Python, frameworks back-end Django/Flask e linguagens de banco de dados relacional como SQL.
 
 🚀 Meu objetivo profissional é me tornar um desenvolvedor full stack e desenvolver soluções eficazes por meio da web.
-
-📚 Valorizo o aprendizado contínuo e o trabalho em equipe.
 
 ---
 
